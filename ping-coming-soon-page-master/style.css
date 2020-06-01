@@ -1,0 +1,313 @@
+@media (max-width: 550px) {
+  body {
+    margin: 0;
+    padding: 0;
+  }
+
+
+  .logo {
+    width: 100%;
+    margin-top: 25%;
+    margin-bottom: 10%;
+  }
+
+  .logo img {
+    width: 20%;
+    margin-left: 40%;
+  }
+
+
+  .container {
+    width: 100%;
+    text-align: center;
+  }
+
+.h1 {
+  width: 100%;
+}
+
+h1 {
+  font-family: 'Libre Franklin', sans-serif;
+  width: 80%;
+  font-size: 1.5rem;
+  color: hsl(0, 0%, 59%);
+  margin-left: 10%;
+}
+
+h1 span {
+  color: black;
+}
+
+.p1 {
+  width: 100%;
+}
+
+p {
+  width: 70%;
+  font-size: 1rem;
+  margin-left: 15%;
+}
+
+.search-input {
+  width: 100%;
+}
+
+input {
+  margin-top: 5%;
+  width: 70%;
+  height: 35px;
+  border: 1px solid  hsl(223, 100%, 88%);
+  border-radius: 50px;
+  padding: 5px 20px;
+  outline: none;
+}
+
+.submit {
+  width: 100%;
+}
+
+.submit button {
+  margin-top: 5%;
+  width: 70%;
+  height: 35px;
+  background-color: hsl(223, 87%, 63%);
+  border: 1px solid hsl(223, 87%, 63%);
+  border-radius: 50px;
+  color: white;
+  padding: 5px 20px;
+  outline: none;
+}
+
+div title {
+  width: 70%;
+}
+
+
+.image {
+  width: 100%;
+  display: block;
+}
+
+.image img {
+  width: 80%;
+  margin-top: 30%;
+}
+
+.icon {
+	width: 50%;
+  margin-top: 35%;
+  margin-left: 25%;
+  text-align: center;
+}
+
+i {
+	margin-left: auto;
+	margin-right: auto;
+  text-align: center;
+  color: hsl(223, 87%, 63%);
+  border: 1px solid hsl(223, 87%, 63%);
+  padding: 5px;
+  border-radius: 100%;
+  margin: 1%;
+}
+
+
+.p2 {
+  width: 70%;
+  color: hsl(0, 0%, 59%);
+  font-size: 16px;
+}
+
+footer {
+  margin-top: 10%;
+  width: 100%;
+  text-align: center;
+   color: hsl(0, 0%, 59%);
+   font-size: 14px;
+}
+
+footer p {
+  width: 70%;
+}
+
+footer a {
+  color:  hsl(0, 0%, 59%);
+  text-decoration: none;
+}
+
+footer a:hover {
+  text-decoration: underline;
+}
+
+
+
+}
+
+
+
+
+
+
+@media (min-width: 551px) {
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+
+.logo {
+  width: 100%;
+  margin-top: 4%;
+  margin-bottom: 4%;
+}
+
+.logo img {
+  width: 8%;
+  margin-left: 46%;
+}
+
+
+.container {
+  width: 100%;
+  text-align: center;
+}
+
+.h1 {
+width: 100%;
+}
+
+h1 {
+font-family: 'Libre Franklin', sans-serif;
+width: 50%;
+font-size: 2.5rem;
+color: hsl(0, 0%, 59%);
+margin-left: 25%;
+}
+
+h1 span {
+color: black;
+}
+
+.p1 {
+width: 100%;
+}
+
+p {
+width: 30%;
+font-size: 1.5rem;
+margin-left: 35%;
+}
+
+.search-input {
+width: 100%;
+}
+
+input {
+margin-top: 4%;
+width: 25%;
+margin-left: 32%;
+height: 55px;
+border: 1px solid  hsl(223, 100%, 88%);
+border-radius: 50px;
+padding: 5px 20px;
+outline: none;
+float: left;
+font-size: 1.2rem;
+}
+
+
+.submit {
+width: 100%;
+}
+
+.submit button {
+  font-size: 1rem;
+margin-top: 4%;
+width: 10%;
+margin-left: 1%;
+height: 55px;
+background-color: hsl(223, 87%, 63%);
+border: 1px solid hsl(223, 87%, 63%);
+border-radius: 50px;
+color: white;
+padding: 5px 20px;
+outline: none;
+float: left;
+}
+
+.submit button:hover {
+  background-color: hsl(223, 100%, 70%);
+  border: 1px solid hsl(223, 100%, 70%);
+  cursor: pointer;
+}
+
+div title {
+width: 70%;
+}
+
+
+.image {
+width: 100%;
+display: block;
+}
+
+.image img {
+width: 70%;
+margin-top: 5%;
+}
+
+.icon {
+width: 50%;
+margin-top: 5%;
+margin-left: 25%;
+text-align: center;
+}
+
+i {
+  width: 3%;
+margin-left: auto;
+margin-right: auto;
+text-align: center;
+color: hsl(223, 87%, 63%);
+border: 1px solid hsl(223, 87%, 63%);
+padding: 5px;
+border-radius: 100%;
+margin-top: 1.5%;
+}
+
+i:hover {
+  background-color: hsl(223, 87%, 63%);
+  color: white;
+  cursor: pointer;
+}
+
+
+.p2 {
+width: 50%;
+color: hsl(0, 0%, 59%);
+font-size: 1.2rem;
+margin-left: 25%;
+}
+
+footer {
+margin-top: 2%;
+width: 100%;
+text-align: center;
+ color: hsl(0, 0%, 59%);
+}
+
+footer p {
+width: 50%;
+margin-left: 25%;
+font-size: 1.2rem;
+}
+
+footer a {
+color:  hsl(0, 0%, 59%);
+text-decoration: none;
+}
+
+footer a:hover {
+text-decoration: underline;
+}
